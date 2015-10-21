@@ -1,0 +1,8 @@
+name = easyDDB extlink settings
+description = Configuration for external link module.
+core = 7.x
+package = easyDDB
+version = 7.x-1.0
+project = easyddb_extlink_settings
+dependencies[] = extlink
+features[features_api][] = api:2
