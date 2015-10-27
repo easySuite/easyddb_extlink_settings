@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the easyDDB extlink settings feature.
  */
+
+include_once 'easyddb_extlink_settings.features.inc';
