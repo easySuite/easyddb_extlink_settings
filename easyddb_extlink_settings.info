@@ -1,7 +1,7 @@
 name = easyDDB extlink settings
 description = Configuration for external link module.
 core = 7.x
-package = easyDDB
+package = easyOPAC
 version = 7.x-2.3.1+easy
 project = easyddb_extlink_settings
 dependencies[] = ctools
