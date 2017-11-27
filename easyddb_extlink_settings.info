@@ -1,4 +1,4 @@
-name = easyDDB extlink settings
+name = easyOPAC extlink settings
 description = Configuration for external link module.
 core = 7.x
 package = easyOPAC
